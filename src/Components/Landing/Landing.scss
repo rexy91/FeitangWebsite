@@ -6,7 +6,8 @@
 
 #landing-div{
     height: 100vh;
-    background-image: url('https://cdn.hipwallpaper.com/i/6/17/jLm536.jpg');
+    // background-image: url('https://wallpapercave.com/wp/wp3704690.png');
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://wallpapercave.com/wp/wp3704690.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,5 +17,26 @@
 
 .paragraph{
     box-shadow: 3px 2px 3px 2px #888888;
+
 }
 
+
+#landing-about-div{
+    position: absolute;
+    top: 30%;
+    left: 10%;
+    h2{
+        color: white;
+        font-size: 50px;
+    }
+}
+
+#landing-slogan{
+    margin-top: 20px;
+    color: #f5f5f5;
+    line-height: 25px;
+}
+
+#landing-about-content-div{
+    width: 500px;
+}
