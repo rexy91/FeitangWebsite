@@ -8,28 +8,27 @@
 #about-paragraph-div{
     width: 50%;
     text-align: center;
+    margin-bottom: 30px;
     
 }
 
 
 #commitments-div{
-    display: flex;
-}
-
-
-#commitments-div > img{
     
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .commitments-image{
     width: 100px;
+    margin-bottom: 10px;
     
 }
 
 .single-commitment{
+    box-shadow: 5px 15px 15px 10px rgb(223, 219, 219);
     text-align: center;
-    width: 350px;
-    
+    width: 40vw;
+    margin: 40px;
+    padding:10px;
 }
-
-

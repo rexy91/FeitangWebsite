@@ -26,7 +26,7 @@ class About extends Component {
                     <div className='single-commitment'>
                          <img className='commitments-image'src="https://www.flaticon.com/svg/static/icons/svg/1063/1063376.svg" alt=""/>
                          <br/>
-                         Utilize our core business values of honesty, commitment, and integrity to drive all of our decisions.
+                         Utilize our core business values of honesty, commitment, <br/>and integrity to drive all of our decisions.
                     </div>
                     <div className='single-commitment'>
                          <img className='commitments-image'src="https://www.flaticon.com/svg/static/icons/svg/1342/1342065.svg" alt=""/>
