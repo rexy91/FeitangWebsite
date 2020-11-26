@@ -8,10 +8,13 @@ class About extends Component {
         return (
             <div id='about-page'>
                 <div id='about-paragraph-div'>
-                    <h2>About Us</h2>
+                    <h2>ABOUT US</h2>
                     <p>Since FeiTang Group Inc. Established, our in-depth knowledge of local and international markets, abundant capital and strong financing ability, advanced technology, and commitment to our clients have earned us the trust of customers and partners.</p>
                 </div>
-
+                
+                <div id='commitment-title-div'>
+                <h3>OUR COMMITMENTS</h3>
+                </div>
                 <div id='commitments-div'>
                     <div className='single-commitment'>
                          <img className='commitments-image'src="https://www.flaticon.com/svg/static/icons/svg/1161/1161490.svg" alt=""/>
