@@ -39,7 +39,9 @@ export default class Navbar extends Component {
     </Link>
     <Link
       to='contact-div'
-    
+      smooth={true}
+      offset={-40}
+      duration= {500}
     >
     <li><a href="#0">Contact</a></li>
     </Link>

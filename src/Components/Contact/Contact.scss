@@ -1,9 +1,26 @@
 #contact-div{
-    height: 100vh;
+    height: 70vh;
+    // background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 100, 0.3)), url('https://images.pexels.com/photos/262353/pexels-photo-262353.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
+    // background-position: center;
+    // background-repeat: no-repeat;
+    // background-size: cover;
     
+
 }
 
 #contact-form-card{
     width: 50%;
-    box-shadow: 5px 15px 15px 10px rgb(223, 219, 219);
+    box-shadow: 5px 15px 15px 5px rgb(223, 219, 219);
+    background-color: white;
+    opacity: .8;
+
+    
+}
+
+
+@media only screen and (min-width:768px){
+    #contact-form-card{
+        margin-left: 25%;
+        margin-top: 30%;
+    }
 }
