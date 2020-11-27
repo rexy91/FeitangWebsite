@@ -9,18 +9,28 @@
 }
 
 #contact-form-card{
-    width: 50%;
+    // width: 50%;
     box-shadow: 5px 15px 15px 5px rgb(223, 219, 219);
     background-color: white;
-    opacity: .8;
-
-    
+    opacity: .8;   
+    margin-top: 600px;
+    margin-left: 20px;
+    margin-right: 20px;
 }
-
 
 @media only screen and (min-width:768px){
     #contact-form-card{
         margin-left: 25%;
         margin-top: 30%;
+    }
+}
+
+
+@media only screen and (min-width:1230px){
+    #contact-form-card{
+        width: 50%;
+        box-shadow: 5px 15px 15px 5px rgb(223, 219, 219);
+        background-color: white;
+        opacity: .8;   
     }
 }

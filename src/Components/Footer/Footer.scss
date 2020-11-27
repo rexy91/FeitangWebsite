@@ -1,4 +1,22 @@
 #footer-div{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
+}
+
+// For screen smaller tha 768 px, apply:
+@media only screen and (max-width:768px){
+    #footer-div{
+        h5{
+            font-size: 15px;
+            
+        }
+        p{
+            font-size: 10px;
+        }
+    }
+
+    #footer-div{
+        display: inline;
+        text-align: center;
+    }
 }

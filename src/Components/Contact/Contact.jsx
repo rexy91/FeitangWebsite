@@ -22,9 +22,7 @@ class Contact extends Component {
             <div className="md-form">
                 <textarea id="materialContactFormMessage" class="form-control md-textarea" rows="3"></textarea>
                 <label for="materialContactFormMessage">Message</label>
-            </div>
-
-            
+            </div>            
             <button className="btn btn-outline-info btn-rounded btn-block z-depth-0 my-4 waves-effect" type="submit">Send</button>
         </form>
         </div>
