@@ -1,7 +1,6 @@
 .landing-page{
     margin-top: 100px;
     // background-image: image('https://www.rasmussen.edu/-/media/images/blogs/school-of-business/2020/what-can-you-do-with-a-supply-chain-managment-degree-s.jpg');
-
 }
 
 #landing-div{
@@ -10,15 +9,13 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    
-    
 }
+
+@media only screen and (min-width:768px){
 
 .paragraph{
     box-shadow: 3px 2px 3px 2px #888888;
-
 }
-
 
 #landing-about-div{
     position: absolute;
@@ -38,4 +35,5 @@
 
 #landing-about-content-div{
     width: 500px;
+}
 }

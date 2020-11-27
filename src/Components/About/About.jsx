@@ -10,10 +10,13 @@ class About extends Component {
                 <div id='about-paragraph-div'>
                     <h2>ABOUT US</h2>
                     <p>Since FeiTang Group Inc. Established, our in-depth knowledge of local and international markets, abundant capital and strong financing ability, advanced technology, and commitment to our clients have earned us the trust of customers and partners.</p>
+                    <br/>
+                    <p>To keep competitive in the market, we also focued on improiving the way we do business, by listening to the needs of customers and exploring in different fields. Our mission to make a difference for our loyal customers.</p>
+                    
                 </div>
                 
                 <div id='commitment-title-div'>
-                <h3>OUR COMMITMENTS</h3>
+                <h2>OUR COMMITMENTS</h2>
                 </div>
                 <div id='commitments-div'>
                     <div className='single-commitment'>
