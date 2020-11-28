@@ -6,7 +6,7 @@ class Contact extends Component {
         return (
     <div id='contact-div'>
         <div id='contact-form-card'className="card-body px-lg-5 pt-0">  
-        <form class="text-center" action="#!">
+        <form class="text-center" action="#!" method = "POST" data-netlify = "true">
         <h5 className="card-header  black-text text-center py-4">
             <strong>Contact us</strong>
         </h5>
