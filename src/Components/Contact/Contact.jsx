@@ -14,7 +14,6 @@ class Contact extends Component {
                 <input type="text" id="materialContactFormName" class="form-control"/>
                 <label for="materialContactFormName">Name</label>
             </div>
-            
             <div className="md-form">
                 <input type="email" id="materialContactFormEmail" class="form-control"/>
                 <label for="materialContactFormEmail">E-mail</label>

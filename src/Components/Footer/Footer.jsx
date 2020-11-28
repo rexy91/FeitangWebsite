@@ -14,7 +14,7 @@ class Footer extends Component {
             </li>
             </ul> */}
             <h5 class="mb-1">Office Address:</h5>
-            <p class='py-1 mr-5'>1825 Atlantic Avenue Brooklyn NY 11233</p>
+            <p id='address-content'class='py-1 mr-5'>1825 Atlantic Avenue Brooklyn NY 11233</p>
        </div>
        <div>
             {/* <ul class="list-unstyled list-inline text-center py-1">

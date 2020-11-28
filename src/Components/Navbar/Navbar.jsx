@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import './Navbar.scss' 
-import { Link, Element, Events, animateScroll as scroll, scrollSpy, scroller } from 'react-scroll'
+import { Link} from 'react-scroll'
 
 export default class Navbar extends Component {
     render() {

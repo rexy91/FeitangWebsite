@@ -4,9 +4,7 @@ import './Landing.scss'
 export default function Landing() {
 
   return (
-
       <div id='landing-div'>
-
         <div id='landing-about-div'>
                 <h2>FeiTang Group INC.</h2>
                 <div id='landing-about-content-div'>
@@ -24,6 +22,5 @@ export default function Landing() {
           </div> */}
       </div>
     
-
   )
 }

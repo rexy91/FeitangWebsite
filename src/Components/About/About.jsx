@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
 import './About.scss'
 
-import icon1 from '../icons/commitmentOneIcon.jpg'
-
 class About extends Component {
     render() {
         return (
